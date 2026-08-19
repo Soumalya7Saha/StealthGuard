@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calculator body (safe zone centered around 54, 54 -> 26..82) -->
+    <path
+        android:fillColor="#2B2930"
+        android:pathData="M32,24 C28.7,24 26,26.7 26,30 L26,78 C26,81.3 28.7,84 32,84 L76,84 C79.3,84 82,81.3 82,78 L82,30 C82,26.7 79.3,24 76,24 Z" />
+    
+    <!-- Screen display area -->
+    <path
+        android:fillColor="#1C1B1F"
+        android:pathData="M32,30 C30.9,30 30,30.9 30,32 L30,42 C30,43.1 30.9,44 32,44 L76,44 C77.1,44 78,43.1 78,42 L78,32 C78,30.9 77.1,30 76,30 Z" />
+    
+    <!-- Display number subtle lavender indicator -->
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M68,34 L74,34 L74,36 L68,36 Z M68,38 L74,38 L74,40 L68,40 Z" />
+
+    <!-- Calculator keys Row 1 (Function) -->
+    <path
+        android:fillColor="#49454F"
+        android:pathData="M31,48 A4,4 0 0,1 39,48 A4,4 0 0,1 31,48 M45,48 A4,4 0 0,1 53,48 A4,4 0 0,1 45,48 M59,48 A4,4 0 0,1 67,48 A4,4 0 0,1 59,48" />
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M71,48 A4,4 0 0,1 77,48 A4,4 0 0,1 71,48" />
+
+    <!-- Calculator keys Row 2 -->
+    <path
+        android:fillColor="#3B3842"
+        android:pathData="M31,57 A4,4 0 0,1 39,57 A4,4 0 0,1 31,57 M45,57 A4,4 0 0,1 53,57 A4,4 0 0,1 45,57 M59,57 A4,4 0 0,1 67,57 A4,4 0 0,1 59,57" />
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M71,57 A4,4 0 0,1 77,57 A4,4 0 0,1 71,57" />
+
+    <!-- Calculator keys Row 3 -->
+    <path
+        android:fillColor="#3B3842"
+        android:pathData="M31,66 A4,4 0 0,1 39,66 A4,4 0 0,1 31,66 M45,66 A4,4 0 0,1 53,66 A4,4 0 0,1 45,66 M59,66 A4,4 0 0,1 67,66 A4,4 0 0,1 59,66" />
+    <path
+        android:fillColor="#D0BCFF"
+        android:pathData="M71,66 A4,4 0 0,1 77,66 A4,4 0 0,1 71,66" />
+
+    <!-- Calculator keys Row 4 -->
+    <path
+        android:fillColor="#3B3842"
+        android:pathData="M31,75 A4,4 0 0,1 53,75 A4,4 0 0,1 31,75 M59,75 A4,4 0 0,1 67,75 A4,4 0 0,1 59,75" />
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M71,75 A4,4 0 0,1 77,75 A4,4 0 0,1 71,75" />
+</vector>

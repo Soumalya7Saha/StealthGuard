@@ -1,0 +1,6 @@
+{
+  "name": "StealthGuard",
+  "description": "A covert emergency SOS trigger disguised within a fully functional native-feeling calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
